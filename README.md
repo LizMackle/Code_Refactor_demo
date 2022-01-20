@@ -1,4 +1,4 @@
-# 🖥️ 01 - HTML, CSS and Git: Code Refactor Assignment
+# 🖥️ 01 - HTML, CSS and Git: Code Refactor
 
 ## Story
 As a marketing agency, I wanted a codebase that follows accessibility standards so that our own site is optimized for search engines.
